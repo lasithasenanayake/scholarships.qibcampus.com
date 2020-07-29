@@ -6,5 +6,7 @@
         "FBLAPP_S":"",
         "FBCAPP_DOMAIN":"scholarships.qibcampus.com",
         "APPURL":"http://scholarships.qibcampus.com/#/app"
+        "DATASTORE_DOMAIN":"scholarships.qibcampus.com",
+        "AUTH_DOMAIN":"scholarships.qibcampus.com"
     }
 }
